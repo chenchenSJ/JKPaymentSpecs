@@ -35,7 +35,7 @@ TODO: 苹果内购、用户协议、隐私政策、VIP订阅须知、用户反�
   
    s.resource_bundles = {
 #     'JKPaymentKit' => ['JKPaymentKit/Assets/*.png']
-    'JKPaymentKit' => ['JKPaymentKit/Classes/PaymentKit/PKResource.bundle']
+    'JKPaymentKit' => ['JKPaymentKit/Classes/PaymentKit']
    }
 
   s.swift_version = '5.0'
