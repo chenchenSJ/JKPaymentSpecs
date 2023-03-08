@@ -33,9 +33,9 @@ TODO: 苹果内购、用户协议、隐私政策、VIP订阅须知、用户反�
 
 #  s.source_files = 'JKPaymentKit/Classes/PaymentKit'
   
-   s.resource_bundles = {
-#     'JKPaymentKit' => ['JKPaymentKit/Assets/*.png']
-   }
+#   s.resource_bundles = {
+##     'JKPaymentKit' => ['JKPaymentKit/Assets/*.png']
+#   }
 
   s.swift_version = '5.0'
   # 依赖的第三方里面包含了静态库
