@@ -32,8 +32,7 @@ TODO: 苹果内购、用户协议、隐私政策、VIP订阅须知、用户反�
   s.ios.deployment_target = '11.0'
 
   #“*” 表示匹配所有文件，“**” 表示匹配所有子目录
-  s.source_files = 'JKPaymentKit/Classes/**/*.{h,m,swift}'
-  
+  s.source_files = 'JKPaymentKit/Classes/**/*.{h,m,swift,bundle}'
 #   s.resource_bundles = {
 ##     'JKPaymentKit' => ['JKPaymentKit/Assets/*.png']
 #   }
